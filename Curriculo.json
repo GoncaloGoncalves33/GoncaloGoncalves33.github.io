@@ -1,0 +1,16 @@
+{
+    "vcard":
+    [
+        {"intro":"I am an it student at management and technology School of Agueda. I'm creative, versatile and i have leadership skills." }
+    ],
+
+    "tabelaCV":
+    [
+        {"ESAN": "<b>ESAN</b><br>in robotic automation and industrial computing"},
+        {"carta": "Drivin lecense in categories B and B1"},
+        {"ESTGA": "<b>ESTGA</b> <br> Graduation in Information technology"}
+        
+    ]
+
+    
+}
