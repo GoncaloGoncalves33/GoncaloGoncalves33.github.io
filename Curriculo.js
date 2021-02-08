@@ -1,5 +1,5 @@
 var mobile = window.matchMedia("only screen and (max-width: 760px)");
-if (mobile.matches) location.href = "https://goncalogoncalves33.github.io/Mobile/"
+if (mobile.matches) location.href = "https://goncalogoncalves33.github.io/mobile/"
 
 var xhttp = new XMLHttpRequest();
 xhttp.onreadystatechange =function()
