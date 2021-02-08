@@ -1,3 +1,6 @@
+var mobile = window.matchMedia("only screen and (max-width: 760px)");
+if (mobile.matches) location.href = "https://goncalogoncalves33.github.io/Mobile/"
+
 var xhttp = new XMLHttpRequest();
 xhttp.onreadystatechange =function()
 {
